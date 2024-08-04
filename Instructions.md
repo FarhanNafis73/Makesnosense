@@ -23,4 +23,4 @@ import os
 from ffpyplayer.player import MediaPlayer
 
 
-If you do not have them, use pip to install them. 
+If you do not have them, use pip to install them. Then run the surprise.py file locally. Either use command line or VS Code.
